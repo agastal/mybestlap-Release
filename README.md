@@ -10,6 +10,12 @@ veloce e dove guadagna o perde.
 **[Scarica l'ultima versione](https://github.com/agastal/mybestlap-Release/releases/latest)** ·
 [Novità](CHANGELOG.it.md)
 
+![Overlay di mybestlap sopra la pista](media/overlay.png)
+
+![I tre layout: colonna, griglia e barra](media/overlay-layout.png)
+
+*Valori di esempio. In alto a sinistra la colonna, a destra la griglia, sotto la barra.*
+
 ## Installazione
 
 1. Scarica `mybestlap-<versione>-setup.exe` dall'[ultima release](https://github.com/agastal/mybestlap-Release/releases/latest).

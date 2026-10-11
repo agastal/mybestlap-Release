@@ -10,6 +10,12 @@ gains or loses.
 **[Download the latest version](https://github.com/agastal/mybestlap-Release/releases/latest)** ·
 [What's new](CHANGELOG.md)
 
+![mybestlap overlay over the track](media/overlay.png)
+
+![The three layouts: column, grid and bar](media/overlay-layout.png)
+
+*Example values (Italian labels). Top left the column, top right the grid, below the bar.*
+
 ## Install
 
 1. Download `mybestlap-<version>-setup.exe` from the [latest release](https://github.com/agastal/mybestlap-Release/releases/latest).
