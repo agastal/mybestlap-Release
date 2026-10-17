@@ -8,7 +8,7 @@ registrato insieme al setup con cui l'hai fatto, così sai quale assetto ti ha d
 veloce e dove guadagna o perde.
 
 **[Scarica l'ultima versione](https://github.com/agastal/mybestlap-Release/releases/latest)** ·
-[Novità](CHANGELOG.it.md)
+[Novità](CHANGELOG.it.md) · [Guida](https://github.com/agastal/mybestlap-Release/wiki)
 
 ![Overlay di mybestlap sopra la pista](media/overlay.png)
 
@@ -64,9 +64,12 @@ dai box no.
 
 ## Confronto setup
 
-Dal menu dell'icona, **Confronto setup** apre nel browser una tabella per ogni auto e pista: i
-setup dal migliore, con miglior giro, mediana, i tre settori (e quanto guadagnano o perdono),
-temperature, velocità, carburante e bilanciamento (sottosterzo/sovrasterzo).
+Dal menu dell'icona, **Confronto setup** apre nel browser una pagina dove scegli auto e pista.
+**Tempi**: i setup dal migliore, con miglior giro, mediana, i tre settori (e quanto guadagnano o
+perdono) e i **giri puliti**, cioè quanti giri sono stati validi e senza scivolate, uscite di pista
+o contatti. **Comportamento**: temperature, velocità, carburante e bilanciamento
+(sottosterzo/sovrasterzo); il valore migliore di ogni colonna è in verde.
+[Più dettagli nella guida](https://github.com/agastal/mybestlap-Release/wiki/Confronto-setup).
 
 ## Privacy
 

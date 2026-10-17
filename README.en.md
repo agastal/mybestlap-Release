@@ -8,7 +8,7 @@ with the setup it was driven with, so you know which setup gave the fastest lap 
 gains or loses.
 
 **[Download the latest version](https://github.com/agastal/mybestlap-Release/releases/latest)** ·
-[What's new](CHANGELOG.md)
+[What's new](CHANGELOG.md) · [Guide](https://github.com/agastal/mybestlap-Release/wiki)
 
 ![mybestlap overlay over the track](media/overlay.png)
 
@@ -63,9 +63,12 @@ Only valid laps begun at the line count for the best lap and the gap: the out-la
 
 ## Setup comparison
 
-From the icon's menu, **Setup comparison** opens a table per car and track in the browser: the
-setups best first, with best lap, median, the three sectors (and what they gain or lose),
-temperatures, speed, fuel and balance (understeer/oversteer).
+From the icon's menu, **Setup comparison** opens a page in the browser where you pick car and
+track. **Times**: the setups best first, with best lap, median, the three sectors (and what they
+gain or lose) and **clean laps**, how many laps were valid and free of slides, off-tracks and
+contacts. **Behaviour**: temperatures, speed, fuel and balance (understeer/oversteer); the best
+figure of each column is in green.
+[More in the guide](https://github.com/agastal/mybestlap-Release/wiki/Setup-comparison).
 
 ## Privacy
 

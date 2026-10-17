@@ -2,6 +2,21 @@
 
 Newest first. [Italiano](CHANGELOG.it.md)
 
+## [0.7.0] - 2026-10-17
+
+The setup comparison now tells how dependable a setup is, not only how fast.
+
+### New
+- Setup comparison: **Clean laps** for each setup, how many laps begun at the line were valid, finished and free of slides, off-tracks and contacts, and what spoiled the others.
+- Setup comparison: car and track are picked in two menus, with the **Times** and **Behaviour** panels side by side on wide windows.
+- Setup comparison: the best median, the highest speeds, the coolest brakes and the most neutral balance are in green.
+- Settings: **Move the mouse pointer to a corner when you leave the pits** (off by default).
+- A full guide in English and Italian on the [wiki](https://github.com/agastal/mybestlap-Release/wiki).
+
+### Changed
+- Bar layout: speed and fuel in one block, one above the other, so the bar is shorter.
+- "Back to pits" in the middle of a lap records it as an aborted lap.
+
 ## [0.6.0] - 2026-10-11
 
 First public version: an overlay for Assetto Corsa EVO that records every lap with the setup used and shows, while you drive, how the setup in use compares with the best one.
