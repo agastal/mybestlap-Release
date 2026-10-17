@@ -1,3 +1,5 @@
+<img src="media/icon.png" width="96" align="right" alt="">
+
 # mybestlap
 
 [English](README.en.md)
