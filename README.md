@@ -10,7 +10,7 @@ registrato insieme al setup con cui l'hai fatto, così sai quale assetto ti ha d
 veloce e dove guadagna o perde.
 
 **[Scarica l'ultima versione](https://github.com/agastal/mybestlap-Release/releases/latest)** ·
-[Novità](CHANGELOG.it.md) · [Guida](https://github.com/agastal/mybestlap-Release/wiki)
+[Novità](CHANGELOG.it.md) · [Guida](https://github.com/agastal/mybestlap-Release/wiki) · [Offrimi un caffè](https://www.paypal.com/paypalme/agastalink)
 
 ![Overlay di mybestlap sopra la pista](media/overlay.png)
 

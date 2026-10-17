@@ -10,7 +10,7 @@ with the setup it was driven with, so you know which setup gave the fastest lap 
 gains or loses.
 
 **[Download the latest version](https://github.com/agastal/mybestlap-Release/releases/latest)** ·
-[What's new](CHANGELOG.md) · [Guide](https://github.com/agastal/mybestlap-Release/wiki)
+[What's new](CHANGELOG.md) · [Guide](https://github.com/agastal/mybestlap-Release/wiki) · [Buy me a coffee](https://www.paypal.com/paypalme/agastalink)
 
 ![mybestlap overlay over the track](media/overlay.png)
 
